@@ -24,3 +24,8 @@ For this purpose, I fetched past 10 year returns of the portfolio.
 In the historical simulation method, we do not assume any distribution. We calculate Var using the historical returns that are sorted from low to high. The method is extremely simple to calculate and can be explained to people with no risk knowledge. We do not have to make any assumptions and they can also be used in case of non-linear estimates.
 
 The method assumes that future outcomes can be determined through past returns, which highlights the major drawback of this method. Technological, regulatory, etc. changes can change the direction of future outcomes. The historical simulation method can be slow to react to such a changing market environment.
+
+I also experimented this method in google sheets. The link is attached below 
+https://docs.google.com/spreadsheets/d/1BR29gwGVVlvs_QmiFaDlkfMxSybTvrEHEzyKvca7-fY/edit?usp=sharing
+
+I have taken help of various resources available online to do the project. Playlists of Var available on youtube such as those of Mehul Mehta and Ryan O’Connell along with many more have been tremendously helpful. 
